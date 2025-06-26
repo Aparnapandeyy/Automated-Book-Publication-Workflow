@@ -43,7 +43,9 @@ Fetch content from a public domain book URL, apply AI-driven "spinning" (rewriti
 
 > Open the notebook and execute cells in order. It covers all six steps.
 
-**[▶️ Colab Notebook (Insert Link)(https://colab.research.google.com/drive/1fvsuDZvZ9sWBbb1qVUNRByhg8-3r-fPb#scrollTo=UjoC0Rk-x1gK)**
+**[▶️ Colab Notebook](https://colab.research.google.com/drive/1fvsuDZvZ9sWBbb1qVUNRByhg8-3r-fPb#scrollTo=UjoC0Rk-x1gK)**
+
+## 📹 Demo Video: [Insert YouTube/Drive link after recording]
 
 ---
 
